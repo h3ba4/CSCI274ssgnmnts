@@ -1,2 +1,2 @@
-# CSCI247ssgnmnts
+# CSCI274ssgnmnts
 for now onli.
